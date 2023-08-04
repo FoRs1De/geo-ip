@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.4.0",
+    "full-icu": "^1.5.0",
+    "leaflet": "^1.9.4",
+    "luxon": "^3.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-tabs": "^6.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
